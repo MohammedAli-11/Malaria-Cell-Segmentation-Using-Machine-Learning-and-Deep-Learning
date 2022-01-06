@@ -17,15 +17,11 @@ Go through this [blog](https://medium.com/@marklabinski/installing-tensorflow-ob
  pip install -r requirements.txt
 ```
 #  Files
-
-
 <b>[preprocessing.py](https://github.com/Anaskaysar/Malaria-Cell-Segmentation-Using-Machine-Learning-and-Deep-Learning/blob/main/preprocessing.py)</b><br>
-As data is present in json file this file creates annotated csv files which will be required by our Tensorflow Object Detection API.<br>
+As data is present in json file this file creates annotated csv files which will be required by our Tensorflow Object Detection API.
 
 <b>[plotting.py](https://github.com/Anaskaysar/Malaria-Cell-Segmentation-Using-Machine-Learning-and-Deep-Learning/blob/main/plotting.py)</b><br>
-Script for plotting of bouding boxes of RBC, NON RBC on images.<br>
-<b>
-[CellExtractor.py](https://github.com/Anaskaysar/Malaria-Cell-Segmentation-Using-Machine-Learning-and-Deep-Learning/blob/main/CellExtractor.py)</b><br>
+Script for plotting of bouding boxes of RBC, NON RBC on images.
+
+<b>[CellExtractor.py](https://github.com/Anaskaysar/Malaria-Cell-Segmentation-Using-Machine-Learning-and-Deep-Learning/blob/main/CellExtractor.py)</b><br>
 Script for cropping and extracting NON-RBC images using bounding boxes from main image for the training of VGG-16 model.
-
-
