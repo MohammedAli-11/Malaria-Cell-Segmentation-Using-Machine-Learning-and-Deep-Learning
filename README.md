@@ -1,5 +1,4 @@
-#Malaria Cell Segmentation Using Machine-Learning & Deep-Learning
-
+# Malaria Cell Segmentation Using Machine-Learning & Deep-Learning
 
 # Data
 Data came from three different labs’ ex vivo samples of P. vivax infected patients in Manaus, Brazil, and Thailand. The Manaus and Thailand data were used for training and validation while the Brazil data were left out as our test set. Blood smears were stained with Giemsa reagent, which attaches to DNA and allow experts to inspect infected cells and determine their stage.
