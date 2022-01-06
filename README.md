@@ -9,6 +9,8 @@ It can be downloaded from [Kaggle](https://www.kaggle.com/kmader/malaria-boundin
 # Usage
 Clone the repository and run the following commands from the terminal.
 
+Then download the dataset from given link and copy and paste the data into input folder. All the images from dataset should be put into "input/training_images" folder.
+
 #### Setup Tensorflow Object Detection API
 Go through this [blog](https://medium.com/@marklabinski/installing-tensorflow-object-detection-api-on-windows-10-7a4eb83e1e7b) to setup TFOD on your system.
 
